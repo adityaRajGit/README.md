@@ -98,7 +98,7 @@ https://codeforces.com/profile/adityarajcv
 
 <br/>  
 
-
+## ------------------------------------------------------##
  
   
 
@@ -117,6 +117,7 @@ https://codeforces.com/profile/adityarajcv
 
 
 <br />
+
 <div align="center"><img src="japan.gif" align="center" style="width: 150%" />
   <br />
 ------------------
