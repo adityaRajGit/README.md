@@ -123,7 +123,7 @@ https://codeforces.com/profile/adityarajcv
                 />
             </a></div>
 <br />
-<div align="center"><img src="https://tenor.com/view/waneella-pixel-art-urban-city-gif-18136670" align="center" style="width: 150%" />
+<div align="center"><img src="japan.gif" align="center" style="width: 150%" />
   <br />
 ----
 
