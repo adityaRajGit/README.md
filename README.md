@@ -3,7 +3,7 @@
 </div>  
   
 <br/>
-### **<div align="center">🤖 I am Aditya Raj, A passionate developer from India 🤖</div>**  <img src="200.gif" align="right" style="width: 30%" />
+### **<div align="center">🤖 I am Aditya Raj, A passionate developer from India 🤖</div>**  <img src="200.gif" align="center" style="width: 100%" />
 <br/>  
 
 <br/>  
