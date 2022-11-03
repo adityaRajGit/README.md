@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">🤖 I am Aditya Raj, A passionate developer from India 🤖</div>**  
+### **<div align="center">🤖 I am Aditya Raj, A passionate developer from India 🤖</div>**  <img src="senju.webp" align="right" style="width: 30%" />
   
 
 <br/>  
