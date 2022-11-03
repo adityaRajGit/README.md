@@ -123,8 +123,6 @@ https://codeforces.com/profile/adityarajcv
                 />
             </a></div>
 <br />
-<br/>
-### **<img src="sakura.gif" align="center" style="width: 150%" />**
-<br/>
+<div align="center"><img src="sakura.gif" align="center" style="width: 150%" />
 ----
 
