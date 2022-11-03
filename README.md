@@ -1,5 +1,5 @@
 <div align="center">
-<img src="sakura.gif" align="center" style="width: 100%" />
+<img src="sakura.gif" align="center" style="width: 150%" />
 </div>  
   
 
