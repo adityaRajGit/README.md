@@ -8,7 +8,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set 💻 
 <table><tr><td valign="top" width="33%">
 
 
@@ -80,13 +80,13 @@
 
 
 
-### Leetcode  
+### Leetcode  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" style="width: 10%" />
 https://leetcode.com/adityaRajSenju  
   
 
 
 
-### Codeforces  
+### Codeforces  <img src="(https://codeforces.org/s/34120/images/codeforces-sponsored-by-ton.png)" style="width: 10%" />
 https://codeforces.com/profile/adityarajcv  
   
 
