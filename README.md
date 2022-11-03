@@ -2,7 +2,7 @@
 <img src="sakura.gif" align="center" style="width: 150%" />
 </div>  
   
-### **<div align="center">🤖 I am Aditya Raj, A passionate developer from India 🤖</div>**  <img src="200.gif" align="center" style="width: 100%" />
+### **<div align="center">🤖 I am Aditya Raj, A passionate developer from India 🤖</div>**  
 <br/>  
 
 <br/>  
@@ -123,6 +123,8 @@ https://codeforces.com/profile/adityarajcv
                 />
             </a></div>
 <br />
-
+<br/>
+### **<img src="sakura.gif" align="center" style="width: 150%" />**
+<br/>
 ----
 
