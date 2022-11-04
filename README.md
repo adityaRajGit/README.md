@@ -106,7 +106,7 @@ https://codeforces.com/profile/adityarajcv
 
 <br/>  
 
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31szjtm7ycolqyyyz5yy3vtrbppa&cover_image=true&theme=default&show_offline=false" />
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31szjtm7ycolqyyyz5yy3vtrbppa&cover_image=true&theme=default&show_offline=false" />
 </div>  
 
 <br/>  
