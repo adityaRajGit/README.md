@@ -122,7 +122,7 @@ https://codeforces.com/profile/adityarajcv
 
 <div align="center"><img src="japan.gif" align="center" style="width: 150%" />
   <br />
-------------------
+-------SENJU-------
   <div align="center">
             <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
                 <img
