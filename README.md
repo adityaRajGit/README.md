@@ -95,7 +95,7 @@ https://codeforces.com/profile/adityarajcv
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityaRajGit&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img src="animecomputer.gif" align="center" style="width: 95%" />
+<img src="animecomputer.gif" align="center" style="width: 98%" />
 </div>  
 
 
