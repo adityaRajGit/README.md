@@ -97,9 +97,10 @@ https://codeforces.com/profile/adityarajcv
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityaRajGit&show_icons=true&count_private=true&hide_border=true" />
 <img src="animecomputer.gif" style="width: 70%" style="margin-bottom: 5px;" />
 </div>
+
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaRajGit&show_icons=true&locale=en&layout=compact" alt="adityaRajGit" /></p>
-  </div >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaRajGit&show_icons=true&locale=en&layout=compact" alt="adityaRajGit" />
+</div>
 
 
 <br/>  
