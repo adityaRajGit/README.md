@@ -67,7 +67,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me 🤝
 <div align="center">
 <a href="https://linkedin.com/in/aditya-raj-221961200" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -80,20 +80,20 @@
 
 
 
-### Leetcode  
+### Leetcode 🇱🇨
 https://leetcode.com/adityaRajSenju  
   
 
 
 
-### Codeforces  
+### Codeforces 🇨🇫
 https://codeforces.com/profile/adityarajcv  
   
 
 <br/>  
 
 
-## Github Stats  
+## Github Stats 🧮
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adityaRajGit&show_icons=true&count_private=true&hide_border=true" />
 <img src="animecomputer.gif" style="width: 70%" style="margin-bottom: 5px;" />
 </div>
