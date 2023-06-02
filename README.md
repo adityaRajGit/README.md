@@ -82,12 +82,14 @@
 
 ### Leetcode 🇱🇨
 https://leetcode.com/adityaRajSenju  
-  
-
 
 
 ### Codeforces 🇨🇫
 https://codeforces.com/profile/adityarajcv  
+
+
+### GeeksforGeeks ɢғɢ
+https://auth.geeksforgeeks.org/user/adityarajsenju/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user
   
 
 <br/>  
