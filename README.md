@@ -85,16 +85,24 @@
 
 
 
-### Leetcode 🇱🇨
-https://leetcode.com/adityaRajSenju  
+
+<a href="https://leetcode.com/adityaRajSenju" target="_blank">
+<img src=https://https://img.shields.io/badge/Link-Leet_Code-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
 
 
-### Codeforces 🇨🇫
-https://codeforces.com/profile/adityarajcv  
+
+<a href="https://codeforces.com/profile/adityarajcv" target="_blank">
+<img src=https://https://img.shields.io/badge/Link-Code_forces-red.svg?&style=for-the-badge&logo=codeforces&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
 
 
-### GeeksforGeeks ɢғɢ
-https://auth.geeksforgeeks.org/user/adityarajsenju/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user
+<a href="https://auth.geeksforgeeks.org/user/adityarajsenju/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank">
+<img src=https://https://img.shields.io/badge/Link-Geeks_for_Geeks-green.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
   
 
 <br/>  
