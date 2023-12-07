@@ -87,7 +87,7 @@
 
 
 <a href="https://leetcode.com/adityaRajSenju" target="_blank">
-<img src=https://https://img.shields.io/badge/Link-Leet_Code-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Link-Leet_Code-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 
