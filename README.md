@@ -5,7 +5,7 @@
 ### **<div align="center">🤖 I am Aditya Raj, A passionate developer from India 🤖</div>**  
 ## Portfolio Website
 <a href="https://ad1tya-raj-portfolio.netlify.app" target="_blank">
-<img src=https://img.shields.io/badge/Personal%20Portfolio-8A2BE2.svg?&style=for-the-badge&logo=bt&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Personal%20Portfolio-8A2BE2.svg?&style=for-the-badge&logo=sitecore&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <br/>  
