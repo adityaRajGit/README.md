@@ -1,7 +1,7 @@
 <div align="center">
 <img src="sakura.gif" align="center" style="width: 200%" />
 </div>  
-  
+
 ### **<div align="center">🤖 I am Aditya Raj, A passionate developer from India 🤖</div>**
 </br>
 <div align="center">
