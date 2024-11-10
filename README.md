@@ -104,7 +104,7 @@
 
   # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityarajgit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+  <img src="https://gh-readme-profile.vercel.app/api?username=adityarajgit&theme=catppuccin-mocha&border_radius=2.9&title_color=ed83ca&border_color=9f0000&stroke_color=9b0000"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajgit&theme=tokyonight&hide_border=false" alt="GitHub Streak"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajgit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
