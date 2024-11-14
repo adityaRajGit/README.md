@@ -2,7 +2,7 @@
 <img src="sakura.gif" align="center" style="width: 200%" />
 </div>  
 
-### **<div align="center">🤖 I am Aditya Raj, A passionate developer from India 🤖</div>**
+### **<div align="center">🤖 I am Aditya Raj, An Open Source Enthusiast From India 🤖</div>**
 </br>
 <div align="center">
 <a href="https://ad1tya-raj-portfolio.netlify.app" target="_blank">
